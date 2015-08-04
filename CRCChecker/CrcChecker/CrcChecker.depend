@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1437778663 source:c:\users\angelo\desktop\crcchecker\crcchecker\crcchecker.c
+	<stdio.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
